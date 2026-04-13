@@ -9,9 +9,9 @@
 
 ## 🌐 Connect with me
 <p align="center">
-<a href="https://instagram.com/serhatblb"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://instagram.com/serhatbulbul60"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://linkedin.com/in/serhatbulbul"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com/serhatblb"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://twitter.com/"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
